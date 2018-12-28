@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="SwipeToRefreshColor">#f13f3f</color>
+    <color name="white">#ffffff</color>
+    <color name="timestamp">#a0a3a7</color>
+    <color name="name">#125688</color>
+    <color name="ActionBarColor">#f13f3f</color>
+    <color name="feed_item_bg">#ffffff</color>
+    <color name="feed_item_border">#c2c3c8</color>
+    <color name="ImageGridItemBackground">#edeeee</color>
+</resources>
